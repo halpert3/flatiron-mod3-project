@@ -15,3 +15,8 @@ Thumbs.db
 
 # config file
 config.py
+
+# large datafiles
+*/data/Traffic_Crashes_-_People.csv
+*/data/Traffic_Crashes_-_Crashes.csv
+*/data/Traffic_Crashes_Subset.csv
